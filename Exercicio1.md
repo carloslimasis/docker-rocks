@@ -1,4 +1,4 @@
-#1. Rodando um wordpress e mysql com docker
+#Comandos
 
 Comando utilizado para baixar uma imagem específica do docker hub, neste caso
 a imagem mysql
