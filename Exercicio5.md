@@ -17,7 +17,7 @@
 		CMD ["/usr/sbin/apache2ctl", "-D", "FOREGROUND"] //Essa instrução executa o Apache
 
 
-# Comandos
+## Comandos
 
 Comando utilizado para gerar a imagem a partir do Dockerfile
 ```ssh
