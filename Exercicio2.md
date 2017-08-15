@@ -1,4 +1,4 @@
-#Comandos
+# Comandos
 
 Comando utilizado para mostrar quantos processos estão em execução na minha máquina
 ```ssh
@@ -78,7 +78,7 @@ $ docker rmi [id-da-imagem]
 ```
 
 
-O que é container, e para que ele serve?
+### O que é container, e para que ele serve?
 
 O próprio nome ja nos remete aos grandes containers dos portos. Para que eles servem? 
 
